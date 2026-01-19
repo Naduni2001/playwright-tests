@@ -1,0 +1,6 @@
+com\ebay\tests\AppTest.class
+com\ebay\tests\tests\FunctionalTests.class
+com\ebay\tests\tests\RelatedProductsTest.class
+com\ebay\tests\pages\BasePage.class
+com\ebay\tests\pages\RelatedProductsPage.class
+com\ebay\tests\tests\FirstTest.class
